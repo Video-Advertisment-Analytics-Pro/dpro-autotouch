@@ -1027,4 +1027,6 @@ while true do
 
 	appKill("jp.naver.line");
 
+	usleep(1000000)
+
 end
