@@ -1,5 +1,5 @@
-while true do
-	appRun("jp.naver.line")
+appRun("jp.naver.line")
 	
-end
+usleep(1000000)
 
+appKill("jp.naver.line");
